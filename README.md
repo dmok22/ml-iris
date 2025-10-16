@@ -51,13 +51,23 @@ This project trains and evaluates four different models:
 ## 📊 Example Output
 
 **Model Comparison Summary**
+Logistic Regression Confusion Matrix:
 
-[Logistic Regression Confusion Matrix](Figure1.png)
+[Logistic Regression Confusion Matrix](Figure_1.png)
+
+K-nn (k=5) Confusion Matrix:
 [knn Matrix](knn_matrix.png)
-[knn Matrix](knn_matrix.png)
+
+Logistic Regression Matrix:
 [logis Matrix](logis_matrix.png)
+
+SVM Matrix:
 [svm Matrix](svm_matrix.png)
+
+Tree Matrix:
 [tree Matrix](tree_matrix.png)
+
+Test Accuracy for all classifications:
 [test accuracy](test_acc.png)
 ---
 
